@@ -16,6 +16,7 @@
 
 ## 👋 Introduction
 
+本版本改成使用 MS SQL SERVER 資料庫,其餘說明參考下列
 Open Source Point of Sale is a web-based point of sale system. The application is written in PHP, it uses MySQL (or MariaDB) as data storage back-end and has a simple but intuitive user interface.
 
 The latest `3.x` version is a complete overhaul of the original software. It uses CodeIgniter 3 as a framework and is based on Bootstrap 3 using Bootswatch themes. Along with improved functionality and security.
